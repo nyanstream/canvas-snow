@@ -15,11 +15,10 @@ var particleCount = 200,
 	snowflakes    = [],
 	snowflake;
 
-canvas.style.position = 'absolute';
+canvas.style.position = 'fixed';
 canvas.style.pointerEvents = 'none';
 canvas.style.zIndex = 101;
 canvas.style.left = canvas.style.top = '0';
-canvas.style.bottom = '0';
 
 var Snowflake = function () {
 	this.x = 0;
