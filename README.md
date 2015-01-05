@@ -1,7 +1,6 @@
-Ho, Ho, HO!
+[![Author](http://img.shields.io/badge/author-@Nicholas Carter-blue.svg?style=flat-square)](https://twitter.com/nicholas_c)
 
-Canvas Snow with one JS file. Just include and away we go!
+Canvas Snow - v1.0.0
+=====
+Super simple JavaScript Snow, Clean JS works back to IE8 due to canvas and is automatically disabled below 600px to save resources on mobile devices. 
 
-Simply include <script type="text/javascript" src="/path/to/snow.js"></script> and you're good to go! 
-
-Some varibles such as speed/amount/shadow etc in the top of JS file, defaults are subtle.
