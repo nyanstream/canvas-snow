@@ -1,8 +1,8 @@
 ;(function() {
 	var particleCount = 350,
 		particleMax   = 500,
-		particleSize  = 5,
-		particleSpeed = 5,
+		particleSize  = 1,
+		particleSpeed = 1,
 		shadow 		  = true,
 		shadowColor   = 'rgba(33, 33, 33, 0.25)',
 		color         = '#fff',
