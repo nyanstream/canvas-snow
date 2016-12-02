@@ -109,7 +109,9 @@
 		};
 	})();
 
-	onResize();
+	setTimeout(function() {
+		onResize();
+	}, 0)
 
 	window.addEventListener('resize  ready', onResize, false);
 
