@@ -1,13 +1,14 @@
-[![Author](http://img.shields.io/badge/author-@Nicholas Carter-blue.svg?style=flat-square)](https://twitter.com/nicholas_c)
-Canvas Snow - v1.0.1
-=====
-Super simple JavaScript Snow, Clean JS works back to IE8 due to canvas and is automatically disabled below 600px to save resources on mobile devices. 
+# Canvas Snow v1.1.0
 
-#####Usage 
-Simple include <script src="snow.js" type="text/javascript"></script> in pages which require snow.
+---
 
-#####Example
-http://www.nicholascarter.net/snow/
+Super simple JavaScript Snow. Forked from [nicholas-c](https://github.com/nicholas-c/canvas-snow).  
+Unfortunately, this script is not optimized and uses lot of CPU and GPU.
 
-#####Release History
-https://github.com/nicholas-c/canvas-snow/releases
+### Usage
+
+Simple include `snow.js` in pages which require snow.
+
+### Example
+
+https://rawgit.com/nyanstream/canvas-snow/master/index.html
